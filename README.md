@@ -1,2 +1,2 @@
-# _config.yml
+# config.yml_
 theme: jekyll-theme-cayman
